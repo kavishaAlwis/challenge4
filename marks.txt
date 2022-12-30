@@ -1,0 +1,9 @@
+4
+lName1,fName1
+english,100,100,100
+lName2,fName2
+science,88,75,80,90
+lName3,fName3
+math,70,75,77,80,81,80,85,87
+lName4,fName4
+math,100,100,100,100,100,100,100,100
